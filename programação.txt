@@ -1,0 +1,44 @@
+Como clonar um projeto do git
+
+cd \Users\seuusuario\localdesejado
+git clone url copiada do repositorio do git
+
+code . -r para abrir uma pasta no visual pelo CMD após clonar
+
+Hover -> quando passa o mouse sobre
+
+file
+	preferences
+		settings
+			buscar por: save
+				format on save: ON
+				
+Extensões 
+	Material Icon
+	Bracket Pair 
+	Prettier - Code formatter
+	
+<meta> propriedade para o navegador
+<meta charset> propriedade de caracteres
+<meta http-equiv> equivalencia com qual navegador desejado 
+
+<hr> para criar uma linha horizontal no site
+
+se voce criar um novo arquivo e colocar nomequalquer/index.html, ele vai criar uma pasta com o nomequalquer e um arquivo index dentro dela
+
+<html lang=> a lingua fluente que o pais onde o site vai rodar 
+
+UTF-8 para caracteres acentuados
+
+ctrl+: para abrir comentario no HTML
+
+href -> hyper reference
+
+<div id= - é direcionado para uma parte só
+<div class= - voce pode usar em varios elementos
+
+voce pode citar varios elementos em uma linha só, Exemplo: body>h1>h2>h3
+
+alt - texto alternativo da imagens
+
+Aplicar a formatação a todos os elementos. Usaremos o asterisco(*)
